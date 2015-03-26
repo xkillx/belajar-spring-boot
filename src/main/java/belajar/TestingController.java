@@ -13,7 +13,7 @@ public class TestingController {
 	}
 
 	private String dummy() {
-		return "Hello World From Dummy";
+		return "Hello World From Koplak";
 	}
 	
 	@RequestMapping("/belajar")
